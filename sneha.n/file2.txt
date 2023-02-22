@@ -1,3 +1,4 @@
  
  this is file 1 in feature
- i popped again here 
+ i popped again here
+   i m trying to do merge conflict
